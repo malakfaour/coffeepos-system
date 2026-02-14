@@ -1,0 +1,27 @@
+# Java
+*.class
+*.jar
+
+# Build outputs
+bin/
+out/
+target/
+
+# IDE files
+.settings/
+.project
+.classpath
+.idea/
+.vscode/
+*.iml
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs & temp
+*.log
+*.tmp
+
+# Local generated receipts / exports
+receipt_*.csv
